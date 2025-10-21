@@ -26,28 +26,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center" style="background-color: rgb(70,75,75); color: rgba(158,203,255,1); padding: 10px; border-radius: 10px;">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=V1ltrr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="47.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ltrr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="43%" />
-</p>
-
-</div>
-
-![Followers](https://img.shields.io/github/followers/v1ltrr?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/v1ltrr?style=social)
-
----
-
-### GitHub activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v1ltrr&theme=vue&hide_border=true)
-
----
-
 ### Projects & challenges
 
 | Project                     | Description                                                   | Status        |
