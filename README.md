@@ -57,7 +57,7 @@
 ### Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode,notion,obsidian"/>
+  <img src="https://skillicons.dev/icons?i=py,c,linux,windows,git,github,vscode,codepen,notion,obsidian"/>
 </p>
 
 ---
