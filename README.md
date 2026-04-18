@@ -1,4 +1,4 @@
-<h1 align="center">— V1ltrr —</h1>
+<h1 align="center">— Noan Henry —</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=1500&center=true&vCenter=true&width=650&color=%23cccccc&lines=Future+Business+Engineering+Student;Interested+in+Finance+%26+Strategy;Analytical+Thinking+%7C+Problem+Solving;Building+Long-term+Skills;Based+in+Belgium" alt="Typing SVG" />
