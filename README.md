@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=4000&pause=1500&center=true&vCenter=true&width=650&color=%23cccccc&lines=Future+Business+Engineering+Student;Interested+in+Finance+%26+Strategy;Analytical+Thinking+%7C+Problem+Solving;Building+Long-term+Skills;Based+in+Belgium" alt="Typing SVG" />
 </p>
 
+<iframe src="https://github.com/sponsors/NnHry/button" title="Sponsor NnHry" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 ---
 
 ### About Me
